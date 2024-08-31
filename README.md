@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Minh Quan :wave:
 
-<!--
-**MinhQuan2121/MinhQuan2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer specializing in web development, creating dynamic and user-friendly interfaces that enhance user experiences.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
+Web:
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+Software:
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
