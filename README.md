@@ -1,7 +1,7 @@
 # Hi, I'm Minh Quan :wave:
 
 I'm a frontend developer specializing in web development, creating dynamic and user-friendly interfaces that enhance user experiences.
-I'm on road to Fullstack Developer.🥰
+I'm on road to <b>Fullstack Developer</b>.🥰
 
 ## Skills
 
