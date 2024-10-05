@@ -4,7 +4,7 @@
 I'm a <b>Frontend Developer</b> specializing in web development, creating dynamic and user-friendly interfaces that enhance user experiences. <br>
 I'm on road to <b>Fullstack Developer</b>.🥰
 
-## Skills
+## 👨‍🎓 Skills
 
 Programming languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -17,5 +17,5 @@ Software:
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-## Streak Stats
+## 📈 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Minhquan2121&theme=merko&hide_border=true&border_radius=10&card_width=500)](https://git.io/streak-stats)
