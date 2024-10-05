@@ -1,6 +1,7 @@
-# Hi, I'm Minh Quan :wave:
+# Hi, I'm Quan :wave:
+![](https://komarev.com/ghpvc/?username=Minhquan2121)
 
-I'm a frontend developer specializing in web development, creating dynamic and user-friendly interfaces that enhance user experiences.
+I'm a <b>Frontend Developer</b> specializing in web development, creating dynamic and user-friendly interfaces that enhance user experiences.
 I'm on road to <b>Fullstack Developer</b>.🥰
 
 ## Skills
